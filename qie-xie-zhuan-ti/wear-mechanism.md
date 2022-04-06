@@ -1,15 +1,73 @@
 # wear mechanism
 
 ```
-- Build-up edge(adhesive wear)
-- Notch wear(Adhesive/mechanical wear)
-- Crater (Chemical wear)
-- Flank wear (abrasive wear)
-- Plastic deformation(thermal wear)
-- Thermal crack (thermal wear)
-- Breakage (mechanical wear)
+## Type
+	+ Abrasion Wear - Mechanical Wear (磨耗損壞)
+	+ Adhesion Wear (黏著磨耗)
+	+ Diffusion Wear (擴散磨耗)
+	+ Oxidation Wear (氧化磨耗)
+	+ Fatigue Wear (疲勞磨耗)
+
+### Mechanical Wear
+	不論溫度高或低，基本上這個磨損機制都會發生，所佔比例不同而已
+
+---
+
+### Abrasion wear 磨耗磨壞
+        材料中的硬質顆粒，在切削過程中，於刀具的表面或後刀面衝擊/撞擊，造成刀具表面的磨損
+        抵抗這種磨損能力的取決於刀具和材料的相對硬度
+
+### Adhesion Wear 黏著磨耗
+        在切削過程中，磨料或碎裂的材料顆粒黏著在刀具表層，而隨後隨著切削的過程拉長，
+        在脫落時，同時造成刀具表面的材料脫落。
+        常常可觀察到的如 積屑瘤 BUE (build-up edge)的產生
+
+### Diffusion Wear (擴散磨耗)
+         由於高溫與高壓的狀態下，造成材料分子的細微的消散。
+         擴散作用的程度常與環境的溫度呈正相關。
+         當加工過程的溫度較高，擴散作用就越顯著
+   
+### Oxidation Wear (氧化磨耗)
+           與先前所提到的擴散磨耗相近，都與溫度有正相關。
+   
+### Fatigue Wear (疲勞磨耗)
+            疲勞磨耗指的是材料表面被循環反覆加載而被削弱性能的一個過程。
+            常由小部分的材料微粒脫落，而材料本身會因為表面產生的的裂痕擴展而分離。
+            這些微裂痕可能產生在表面也可能在內部。
+   
+---
+---
+以上的都是在切削過程中磨耗造成的原因，而在切削過程我們所能觀察到的則是刀具表面的磨耗現象。
+常見的磨耗現象往往都是由多個原因組合造成。
+
+---
+## **常見的刀具磨耗/失效現象**
+
+### 月牙
+
+### 崩刃
+
+### 刀具表面產生裂紋
+
+### 塑性變形(Plastic deformation)
+
+
+---
+
+## 刀具磨耗判斷的準則
+
+### 如何量測
 
 
 
--	abrasion 	
+---
+## **參考資料**
+
+    - []()
+    - []()
+
+---
+#cuttingtools #tool wear
+
+
 ```
