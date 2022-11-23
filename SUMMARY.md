@@ -10,3 +10,4 @@
   * [切屑分類](qie-xie-zhuan-ti/qie-xie-fen-lei.md)
   * [切屑顏色](qie-xie-zhuan-ti/qie-xie-yan-se.md)
   * [Chip Compression ratio](qie-xie-zhuan-ti/chip-compression-ratio.md)
+* [DED(Direct Energy Deposition)](ded-direct-energy-deposition.md)
