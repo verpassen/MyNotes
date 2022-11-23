@@ -11,4 +11,6 @@
   * [切屑顏色](qie-xie-zhuan-ti/qie-xie-yan-se.md)
   * [Chip Compression ratio](qie-xie-zhuan-ti/chip-compression-ratio.md)
 * [DED(Direct Energy Deposition)](ded-direct-energy-deposition.md)
+* [Melt pool monitoring](melt-pool-monitoring/README.md)
+  * [Pyrometer](melt-pool-monitoring/pyrometer.md)
 * [Page 2](page-2.md)
