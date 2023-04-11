@@ -22,6 +22,7 @@
 * [ ] 供粉速率 powder feeding rate (g/s or g/ min)
 * [ ] 移動速率 feed rate (mm/min)
 * [ ] 沉積速率 (kg / h)
+* [ ] 工作距離 Standoff distance (mm)
 
 ### 完成品特性
 
@@ -42,9 +43,7 @@
 
 ## 參考資料
 
-```
-- Powder DED
-  - [Addup](https://addupsolutions.com/portfolio_category/materials/)
-  - [Insstek](http://www.insstek.com/core/board.php?bo_table=technical_news)
-  -
-```
+* Powder&#x20;
+  * \[AddUp]\(https://addupsolutions.com/portfolio\_category/materials/)
+  * \[Insstek]\(http://www.insstek.com/core/board.php?bo\_table=technical\_news)
+
