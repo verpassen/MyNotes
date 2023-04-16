@@ -19,6 +19,7 @@
 
 * [DED Paper Notes](group-1/ded-paper-notes/README.md)
   * [Process control of laser metal deposition](group-1/ded-paper-notes/process-control-of-laser-metal-deposition.md)
+  * [In situ monitoring of build height during powder‑based laser metal deposition](group-1/ded-paper-notes/in-situ-monitoring-of-build-height-during-powder-based-laser-metal-deposition.md)
   * [Design of experiments for laser metal deposition in maintenance, repair and  overhaul applications](group-1/ded-paper-notes/design-of-experiments-for-laser-metal-deposition-in-maintenance-repair-and-overhaul-applications.md)
 * [DED Process Parameters](group-1/ded-process-parameters/README.md)
   * [DED 參數報告所需的資訊](group-1/ded-process-parameters/ded-can-shu-bao-gao-suo-xu-de-zi-xun/README.md)
