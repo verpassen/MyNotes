@@ -14,6 +14,7 @@
   * [Adaptive control](melt-pool-monitoring/adaptive-control.md)
   * [OpenCv with PyQt5 notes](melt-pool-monitoring/opencv-with-pyqt5-notes.md)
   * [Pyrometer](melt-pool-monitoring/pyrometer.md)
+  * [Otsu Threshold method](melt-pool-monitoring/otsu-threshold-method.md)
 
 ## Group 1
 
