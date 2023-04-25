@@ -67,6 +67,8 @@ This study focuses mainly on the online measurement of build height via in situ 
 
     4.2 如果橢圓長軸 a> 經驗值 l ，增加門檻值，回到步驟三
 
+<figure><img src="../../.gitbook/assets/image process flowchart.PNG" alt=""><figcaption></figcaption></figure>
+
 \---
 
 ### 實驗結果
